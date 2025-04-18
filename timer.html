@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>KON BANEGA CROREPATI</title>
+   <link rel="stylesheet" href="quiz.css">
+</head>
+<body>
+  <div class="app">
+    <!-- START SCREEN -->
+    <div id="start-screen">
+      <h1>Welcome to the General Knowledge Quiz!</h1>
+      <button id="startbtn">Start the Quiz</button>
+    </div>
+
+    <!-- QUIZ SCREEN -->
+    <div id="quiz-screen" style="display: none;">
+      <div class="header">
+        <h1>GENERAL KNOWLEDGE QUIZ</h1>
+        <div id="time"><strong>Time:</strong> <span id="time-value">00:00:00</span></div>
+
+
+      </div>
+
+      <div class="buttons">
+        <h2 id="question">Question goes here</h2>
+        <div id="ans"></div>
+        <button id="nextbtn" style="display: none;">NEXT</button>
+        <div id="pagination">
+          <ul id="pagination" class="dot-pagination">
+            <li class="dot" onclick="activeLink(0)"></li>
+            <li class="dot" onclick="activeLink(1)"></li>
+            <li class="dot" onclick="activeLink(2)"></li>
+            <li class="dot" onclick="activeLink(3)"></li>
+            <li class="dot" onclick="activeLink(4)"></li>
+          </ul>
+          
+        </div>
+      </div>
+
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
