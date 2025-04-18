@@ -19,7 +19,7 @@ Welcome to the **General Knowledge Quiz**, a fun and interactive aptitude quiz b
 ## 🚀 How to Run
 
 1. **Clone or download** the repository to your local machine.
-2. Open the `timer.html` file in any modern web browser.
+2. Open the `index.html` file in any modern web browser.
 3. Click **"Start the Quiz"** to begin!
 
 ## 🛠️ Tech Stack
@@ -31,7 +31,7 @@ Welcome to the **General Knowledge Quiz**, a fun and interactive aptitude quiz b
 ## 🧩 File Structure
 
 ```
-├── timer.html        # Main HTML file
+├── index.html        # Main HTML file
 ├── quiz.css          # Stylesheet for design
 └── script.js         # Quiz logic and interactions
 ```
