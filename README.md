@@ -1,5 +1,5 @@
 # 🧠 General Knowledge Quiz App
-
+WEBSITE LINK: https://yashika-ash.github.io/Aptitude-Quiz-/
 Welcome to the **General Knowledge Quiz**, a fun and interactive aptitude quiz built with **HTML**, **CSS**, and **JavaScript**! This project tests your knowledge across various topics with a timed quiz interface, visual feedback, and smooth user interaction.
 
 ## 🎯 Features
