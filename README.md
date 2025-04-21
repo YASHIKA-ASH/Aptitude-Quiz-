@@ -12,10 +12,7 @@ Welcome to the **General Knowledge Quiz**, a fun and interactive aptitude quiz b
 - 🔁 Option to replay the quiz after completion  
 - 📱 Responsive and user-friendly design  
 
-## 📸 Preview
 
-![Quiz Preview](https://img.icons8.com/?size=96&id=63262&format=png)  
-*A question with answer feedback*
 
 ## 🚀 How to Run
 
